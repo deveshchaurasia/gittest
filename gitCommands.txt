@@ -1,0 +1,16 @@
+git init  // initialize git in folder hidden
+
+git status // gives status
+
+git add Fname // to add file on git for tracking
+
+git commit -m "message" // to commit a checkpoint and save
+
+// for configuration globally
+git config --global user.email "you@example.com"
+git config --global user.name "Your Name"
+
+
+git add . // to add all files 
+
+git log // to track the history
